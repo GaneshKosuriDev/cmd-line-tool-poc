@@ -6,7 +6,7 @@
 <summary>Click to view</summary>
 
 - Download dependencies by running `npm install`.
-- Use the command `npm link` to link your code.
+- Use the command `npm link` to symlink a package folder.
 </details>
 
 ### Third-party libraries used
