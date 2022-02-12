@@ -51,7 +51,7 @@
     developer: "pavan",
     reviewer: "varakumar",
   },
-];
+]
 ```
 
 - After you have successfully completed Setup by using Setup instructions, use below command to fetch a Task Specific Resource
